@@ -49,3 +49,16 @@
 		}
 	}
 }
+
+@media screen and (max-width: 900px) {
+	.project-page-intro {
+		.page-intro-col {
+			display: block !important;
+		}
+	}
+
+	.project-content {
+		margin: 0;
+		padding: 50px;
+	}
+}
