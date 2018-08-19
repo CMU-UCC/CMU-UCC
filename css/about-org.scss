@@ -36,3 +36,12 @@
 		}
 	}
 }
+
+@media screen and (max-width: 900px) {
+	#ucc-intro {
+		display: block;
+		.what-we-do-item {
+			max-width: 100%;
+		}
+	}
+}

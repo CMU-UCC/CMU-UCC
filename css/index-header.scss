@@ -12,7 +12,7 @@
 	header {
 		width: 60vw;
 		h1 {
-			font-size: 5vw;
+			font-size: 5em;
 			padding-bottom: 3vh;
 		}
 	}
@@ -21,5 +21,6 @@
 @media screen and (max-width: 900px) {
 	#index-header {
 		padding: 5vh 5vw;
+		margin-bottom: 50px;
 	}
 }

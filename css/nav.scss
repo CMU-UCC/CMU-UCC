@@ -46,7 +46,8 @@ nav {
 	left: 0;
 	overflow: hidden;
 	width: 100vw;
-	height: 100vh;
+	height: 100%;
+	z-index: 999;
 
 	// style
 	text-align: center;
@@ -54,7 +55,7 @@ nav {
 	background: $light-teal;
 	color: white;
 	ul {
-		font-size: 3vw;
+		font-size: 1.5em;
 		padding: 0;
 		list-style: none;
 		li {
