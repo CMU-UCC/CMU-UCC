@@ -1,0 +1,51 @@
+---
+---
+
+@import 'variables';
+
+.project-page-intro {
+
+	small {
+		color: $text-grey;
+	}
+
+	#page-intro-left {
+		display: flex;
+
+		.img-container {
+			flex: 1 0 0;
+			img {
+				width: 200px;
+			}
+		}
+
+		.project-intro {
+			flex: 2 0 0;
+		}
+	}
+}
+
+.project-content {
+	margin: 5vh 8vw 10vh 8vw;
+
+	h3 {
+		margin-top: 50px;
+	}
+
+	p {
+		line-height: 2em;
+		margin-bottom: 50px;
+	}
+
+	ul {
+		color: $text-grey;
+		li {
+			margin: 20px 0;
+			line-height: 2em;
+		}
+		em {
+			display: block;
+			color: black;
+		}
+	}
+}

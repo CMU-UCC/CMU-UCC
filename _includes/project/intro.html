@@ -1,0 +1,31 @@
+<section id="page-intro" class="project-page-intro">
+	<div class="page-intro-col" id="page-intro-left">
+
+		<div class="img-container">
+			<img src="{{ site.baseurl }}/img/projects/{{ page.name }}.png"
+				 alt="{{ page.name }}" />
+		</div>
+
+		<div class="project-intro">
+			<small>{{ page.year }}</small>
+			<h1>
+				<span class="teal-underlined">{{ page.name }}</span>
+			</h1>
+
+			<p>
+				{{ page.about }}
+			</p>
+		</div>
+	</div>
+
+	<div class="page-intro-col" id="page-intro-right">
+		<a href="{{ site.baseurl }}/campus#consulting-academy"><span>>></span> Consulting Academy</a>
+		{% for project in site.projects %}
+			{% if project.title != page.title %}
+				<a href="{{ site.baseurl }}/{{ project.url }}">
+					<span>>></span> {{ project.name }}
+				</a>
+			{% endif %}
+		{% endfor %}
+	</div>
+</section>
