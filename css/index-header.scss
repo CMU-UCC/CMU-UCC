@@ -4,16 +4,23 @@
 @import 'variables';
 
 #index-header {
-	background: $light-teal;
 	color: white;
-	padding: 20vh 3vw;
+	padding: 10vh 5vw 25vh 5vw;
+	min-height: 400px;
 	margin-bottom: 10vh;
+	
+	background-color:$light-teal;
+	background-image: url(/img/pathfinding.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: 50% 90%;
 
 	header {
 		width: 60vw;
 		h1 {
-			font-size: 5em;
-			padding-bottom: 3vh;
+			font-size: 3em;
+			padding-bottom: 5vh;
+			text-transform: uppercase;
 		}
 	}
 }
@@ -22,5 +29,6 @@
 	#index-header {
 		padding: 5vh 5vw;
 		margin-bottom: 50px;
+		min-height: 300px;
 	}
 }
