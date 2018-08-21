@@ -24,6 +24,45 @@
 	margin: 0 3vw 5vh 3vw;
 }
 
+#consulting-academy {
+	margin: 0 5vw 10vh 5vw;
+	div {
+		text-align: left;
+		margin: 5vh 0;
+	}
+	> p {
+		text-align: left;
+	}
+	#ca-intro {
+		padding-top: 5vh;
+		p {
+			margin-top: 30px;
+			line-height: 40px;
+		}
+	}
+	#ca-timeline {
+		min-height: 300px;
+		background-image: url({{ site.baseurl }}/img/campus/pathfinding_green.png);
+		background-size: 100%;
+		background-repeat: no-repeat;
+		background-position: 50% 40%;
+
+		display: flex;
+		flex-wrap: wrap;
+		padding: 5vh 3vw;
+		border: 1px solid $translucent-teal;
+
+		div {
+			flex: 1 0 33%;
+			margin: 50px 20px;
+			h4 {
+				color: $dark-teal;
+				margin-top: 10px;
+			}
+		}
+	}
+}
+
 @media screen and (max-width: 900px) {
 	.campus-initiative-list {
 		.initiative-section {
