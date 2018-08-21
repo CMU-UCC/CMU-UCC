@@ -28,19 +28,19 @@ footer {
 			text-transform: uppercase;
 			color: $border-grey;
 		}
-		div {
-			margin-right: 6vw;
-			min-width: 250px;
-		}
 		#club-info {
-			margin-right: 40vw;
+			flex: 3 0 0;
 		}
 		#page-list {
+			flex: 1 0 0;
 			a:before {
 				content: '>>';
 				font-size: 0.5em;
 				margin-right: 5px;
 			}
+		}
+		#contact-details {
+			flex: 1 0 0;
 		}
 	}
 
