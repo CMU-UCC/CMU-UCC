@@ -1,0 +1,26 @@
+---
+---
+
+@import 'variables';
+
+#notice {
+	background: $dark-teal;
+	padding: 10px 2vw;
+	color: white;
+	text-align: center;
+	a {
+		border-bottom: 1px solid white;
+		transition: 0.2s;
+		&:hover {
+			color: $bright-teal;
+			border-color: $bright-teal;
+		}
+	}
+}
+
+
+@media screen and (max-width: 900px) {
+	#notice {
+		font-size: 0.8em;
+	}
+}

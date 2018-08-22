@@ -10,6 +10,7 @@
 Keeping a separate scss file for each _includes file
 */
 
+@import 'notice.css';
 @import 'nav.css';
 @import 'footer.css';
 @import 'page-intro.css'; // for all intro files
