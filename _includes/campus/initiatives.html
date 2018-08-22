@@ -4,8 +4,10 @@
 	{% for initiative in site.initiatives %}
 
 		<div id="{{ initiative.name }}" class="initiative-section">
-			<img src="{{ site.baseurl }}/img/initiatives/{{ initiative.name }}.png"
-					 alt="{{ initiative.name }}" />
+			<div class="img-container">
+				<img src="{{ site.baseurl }}/img/initiatives/{{ initiative.name }}.png"
+					 	 alt="{{ initiative.name }}" />
+			</div>
 			<div class="initiative-info">
 				<h3>
 					<span class="teal-underlined">
