@@ -10,6 +10,9 @@ collections:
   projects:
     output: true
 
+markdown: kramdown
+kramdown:
+  input: GFM 
 
 # Use this for production
 #sass:
