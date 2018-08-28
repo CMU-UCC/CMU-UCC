@@ -1,0 +1,22 @@
+---
+---
+
+@import 'variables';
+
+.markdown {
+	h1, h2, h3, h4, h5, b, strong {
+		margin: 25px 0;
+		color: #333;
+	}
+	p {
+		line-height: 25px;
+	}
+	img {
+		margin: 25px 0;
+	}
+	hr {
+		background: $border-grey;
+		height: 3px;
+		margin: 50px 0 15px 0;
+	}
+}
