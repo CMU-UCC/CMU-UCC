@@ -25,7 +25,7 @@ The Hill Group is a management consulting company that specialized in strategy, 
 
 ![UCC Logo](https://www.cmuucc.com/img/logo_teal.png){:width="100px" style="display: block;"}
 
-**CMU UCC (Wednesday 9/5. 6:00-7:30 PM)**
+**CMU UCC (Wednesday 9/5. 6:30-8:00 PM)**
 
 The Undergraduate Consulting Club at CMU facilitates consulting events on campus, hosts case workshops, and participates in pro-bono projects with companies around the world. During this workshop, we will describe more about UCC and consulting academy. We will also open a panel of members who interned at consulting companies for questions.
 
