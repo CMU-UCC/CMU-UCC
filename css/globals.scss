@@ -88,8 +88,8 @@ i { // font-awesome
 	color: white;
 	border: none;
 	transition: 0.3s all ease;
-	font-size: 1vw;
-	padding: 1vh 1vw;
+	padding: 5px 10px;
+	cursor: pointer;
 
 	&:hover {
 		background: $dark-teal;
