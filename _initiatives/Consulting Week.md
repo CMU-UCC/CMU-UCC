@@ -13,7 +13,7 @@ On Sept 4-7th, CMU UCC will be hosting Consulting Week, a week of events to intr
 
 **Schedule of Events**
 
-![](https://scontent.fagc2-1.fna.fbcdn.net/v/t1.0-9/40395486_2602039019821799_2900696941782368256_o.jpg?_nc_cat=0&oh=bddaa0510fbe0a7bd8782f8e11cc56ed&oe=5C3611DF)
+![](https://scontent.fagc2-1.fna.fbcdn.net/v/t1.0-9/40828127_2615821261776908_769916460251217920_o.jpg?_nc_cat=0&oh=421c6be10769167e80e75cae2f4dc29c&oe=5BEDD86D)
 
 
 ![Hill Group Logo](https://pbs.twimg.com/profile_images/423844029210439680/MAMLsj1p_400x400.png){:width="100px" style="display: block;"}
