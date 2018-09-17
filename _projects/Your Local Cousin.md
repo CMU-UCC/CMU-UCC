@@ -1,14 +1,14 @@
 ---
+title: Your local cousin
 layout: project
 name: Your Local Cousin
 status: past
 year: 2018
 featured: true
-about: Your Local Cousin is a travel startup based in New York that connects potential clients with indigenous natives to provide either remote or in-person tourism consulting services.
-
-
+about: Your Local Cousin is a travel startup based in New York that connects potential
+  clients with indigenous natives to provide either remote or in-person tourism consulting
+  services.
 ---
-
 
 ### **Background Info:**
 

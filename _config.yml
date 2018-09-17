@@ -1,21 +1,28 @@
-# Site settings
+---
 title: CMU UCC
-tagline: Founded in 2002, UCC is the organization behind all things consulting at Carnegie Mellon.
-
-apply_url: https://goo.gl/forms/Iw0sJTaIgNvCDJPj1
-
+timezone: UTC
 collections:
   initiatives:
+    title: Initiatives
+    output: true
+  posts:
+    title: Posts
     output: true
   projects:
+    title: Projects
     output: true
-
+  uploads:
+    title: Uploads
+    output: true
+tagline: Founded in 2002, UCC is the organization behind all things consulting at
+  Carnegie Mellon.
+apply_url: https://goo.gl/forms/Iw0sJTaIgNvCDJPj1
 markdown: kramdown
 kramdown:
-  input: GFM 
-
-# Use this for production
-#sass:
-#    style: compressed
-
-exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]
+  input: GFM
+exclude:
+- ".scss"
+- README.md
+- node_modules
+- gruntfile.js
+- package.json
