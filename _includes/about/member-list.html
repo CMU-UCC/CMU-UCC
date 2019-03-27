@@ -26,9 +26,11 @@
 		{% endfor %}
 	</div>
 
-	<h3>
-		Want to join us? 
-		<a href="{{ site.apply_url }}" class="teal-underlined">Apply!</a>
-	</h3>
+	{% if site.recruiting %}
+		<h3>
+			Want to join us? 
+			<a href="{{ site.apply_url }}" class="teal-underlined">Apply!</a>
+		</h3>
+	{% endif %}
 	
 </section>

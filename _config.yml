@@ -16,6 +16,7 @@ collections:
     output: true
 tagline: Founded in 2002, UCC is the organization behind all things consulting at
   Carnegie Mellon.
+recruiting: false
 apply_url: https://goo.gl/forms/Iw0sJTaIgNvCDJPj1
 markdown: kramdown
 kramdown:

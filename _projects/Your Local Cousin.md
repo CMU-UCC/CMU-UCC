@@ -10,7 +10,7 @@ about: Your Local Cousin is a travel startup based in New York that connects pot
   services.
 ---
 
-### **Background Info:**
+### **Background:**
 
 Your Local Cousin is a travel startup based in New York that connects potential clients with indigenous natives to provide either remote or in-person tourism consulting services.
 
