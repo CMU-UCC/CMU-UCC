@@ -5,7 +5,9 @@ name: Hoot
 status: current
 year: 2019
 featured: true
-about: Hoot is an e-commerce start-up under the Pittsburgh Fellows program designed to help homeschooling families buy and sell used books, curricula and other education materials directly from other families.
+about: Hoot is an e-commerce start-up under the Pittsburgh Fellows program designed
+  to help homeschooling families buy and sell used books, curricula and other education
+  materials directly from other families.
 ---
 
 ### **Background:**
