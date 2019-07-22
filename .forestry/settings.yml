@@ -1,7 +1,4 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: false
 admin_path: 
@@ -9,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: _data
-  label: Members, Milestones, Project Methodology
+  label: Members, Project Methodology
   create: all
   match: "**/*"
 - type: directory
