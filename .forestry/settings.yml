@@ -1,7 +1,4 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: false
 admin_path: "/admin"
@@ -18,7 +15,7 @@ sections:
   label: Members, Project Methodology
   create: all
   match: "**/*"
-  new_doc_ext: yaml
+  new_doc_ext: ".yaml"
 - type: directory
   path: _projects
   label: Projects
