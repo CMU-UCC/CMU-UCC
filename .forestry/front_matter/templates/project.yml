@@ -25,3 +25,5 @@ fields:
 - type: textarea
   name: about
   label: about
+pages:
+- _projects/Hoot.md
