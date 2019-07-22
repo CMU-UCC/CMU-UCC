@@ -1,17 +1,9 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: _data/member_list.yaml
-  label: Members
-  match: "**/*"
-  read_only: false
 - type: directory
   path: _projects
   label: Projects
@@ -22,6 +14,11 @@ sections:
   label: Initiatives
   create: all
   match: "**/*"
+- type: document
+  path: _data/member_list.yaml
+  label: Members
+  match: "**/*"
+  read_only: false
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
