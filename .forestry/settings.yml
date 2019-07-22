@@ -7,6 +7,7 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+  
 - type: directory
   path: _data
   label: Members, Project Methodology
