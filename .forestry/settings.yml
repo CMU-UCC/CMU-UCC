@@ -1,22 +1,15 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: _includes/campus/consulting-academy.html
-  label: Consulting Academy
-  match: "**/*"
 - type: directory
-  path: _includes
-  label: Page Sections
+  path: _data
+  label: Members, Project Methodology
   create: all
   match: "**/*"
-  new_doc_ext: ".html, .md"
+  new_doc_ext: ".yaml"
 - type: directory
   path: _projects
   label: Projects
