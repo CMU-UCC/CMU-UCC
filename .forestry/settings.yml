@@ -1,7 +1,4 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: false
 admin_path: "/admin"
@@ -23,12 +20,6 @@ sections:
   label: Initiatives
   create: all
   match: "**/*"
-- type: directory
-  path: ".forestry"
-  label: Forestry
-  create: none
-  match: "**/*"
-  new_doc_ext: '20190715190557'
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
