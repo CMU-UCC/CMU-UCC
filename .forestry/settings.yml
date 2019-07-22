@@ -20,6 +20,10 @@ sections:
   label: Initiatives
   create: all
   match: "**/*"
+- type: document
+  path: _includes/campus/consulting-academy.html
+  label: About Consulting Academy
+  match: "**/*"
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
