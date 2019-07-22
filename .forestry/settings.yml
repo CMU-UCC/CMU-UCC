@@ -1,24 +1,17 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: _uploads
-  label: Uploads
-  create: all
+- type: document
+  path: _data/member_list.yaml
+  label: Members
   match: "**/*"
+  read_only: false
 - type: directory
   path: _projects
   label: Projects
-  create: all
-  match: "**/*"
-- type: jekyll-posts
-  label: Posts
   create: all
   match: "**/*"
 - type: directory
