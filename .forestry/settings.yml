@@ -1,12 +1,15 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
+- type: directory
+  path: ".forestry"
+  label: Forestry
+  create: none
+  match: "**/*"
+  new_doc_ext: ''
 - type: directory
   path: _data
   label: Members, Project Methodology
