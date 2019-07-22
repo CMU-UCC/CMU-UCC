@@ -7,10 +7,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  label: Help
-  path: README.md
-  read_only: true
 - type: directory
   path: _data
   label: Members, Project Methodology
