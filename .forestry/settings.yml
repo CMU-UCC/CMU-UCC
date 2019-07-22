@@ -1,7 +1,4 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: false
 admin_path: "/admin"
@@ -12,13 +9,13 @@ sections:
   label: Forestry
   create: none
   match: "**/*"
-  new_doc_ext: ''
+  new_doc_ext: '20190715190557'
 - type: directory
   path: _data
   label: Members, Project Methodology
   create: all
   match: "**/*"
-  new_doc_ext: ".yaml"
+  new_doc_ext: yaml
 - type: directory
   path: _projects
   label: Projects
