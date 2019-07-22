@@ -1,7 +1,4 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: false
 admin_path: "/admin"
@@ -12,7 +9,7 @@ sections:
   label: Members, Project Methodology
   create: all
   match: "**/*"
-  new_doc_ext: ".yaml"
+  new_doc_ext: yaml
 - type: directory
   path: _projects
   label: Projects
@@ -28,6 +25,7 @@ public_path: "/img"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
+instant_preview: true
 build:
   preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site
   publish_command: bundle exec jekyll build -d _site

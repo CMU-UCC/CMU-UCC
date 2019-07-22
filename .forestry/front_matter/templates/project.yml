@@ -1,7 +1,4 @@
 ---
----
-
----
 label: Project
 hide_body: false
 fields:
@@ -11,6 +8,8 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: project
+  hidden: true
 - type: text
   name: name
   label: name
@@ -26,3 +25,5 @@ fields:
 - type: textarea
   name: about
   label: about
+pages:
+- _projects/Hoot.md
