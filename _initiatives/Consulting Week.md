@@ -4,8 +4,8 @@ layout: initiative
 name: Consulting Week
 blurb: Consulting Week is a week of events to introduce a range of companies to our
   campus and set you on the path to a career in consulting.
-
 ---
+
 ![](https://www.cmu.edu/tepper/why-tepper/assets/images/strategic-plan/strategy-tepper-quad-900x400.jpg)
 
 ## **What is Consulting Week?**
