@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/member_list.yaml
   label: Members
-  match: "**/*"
 - type: directory
   path: _projects
   label: Projects
@@ -16,7 +15,6 @@ sections:
 - type: document
   path: _data/project_methodology.yaml
   label: Project Methodology
-  match: "**/*"
 - type: directory
   path: _initiatives
   label: Initiatives
