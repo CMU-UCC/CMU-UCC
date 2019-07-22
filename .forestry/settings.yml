@@ -4,14 +4,13 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: ''
-webhook_url:
+admin_path: "/admin"
+webhook_url: 
 sections:
 - type: directory
   path: _data
   label: Members, Project Methodology
   create: all
-  match: "**/*"
 - type: directory
   path: _projects
   label: Projects
