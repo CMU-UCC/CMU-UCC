@@ -16,9 +16,9 @@ From September 3rd to 13th, CMU UCC will be hosting Consulting Week, a week of e
 
 ![UCC Logo](https://www.cmuucc.com/img/logo_teal.png){:width="100px" style="display: block;"}
 
-### **CMU UCC and Consulting Academy**
+**CMU UCC and Consulting Academy**
 
-**Monday 09/03   
+**Monday 09/03  
 4:30 - 5:30PM  
 TEP 2612**
 
