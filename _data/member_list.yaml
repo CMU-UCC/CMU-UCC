@@ -3,7 +3,8 @@ members:
 - name: Yedin Lui
   role: President
   year: "2020"
-  experience: []
+  experience:
+  - Consulting Analyst at Accenture
 - name: Ivori Liu
   role: Vice President
   year: "2020"
