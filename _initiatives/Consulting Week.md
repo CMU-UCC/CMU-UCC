@@ -46,9 +46,7 @@ _Are you curious about a career in EY's Transaction Advisory Services (TAS)? Sto
 
 ***
 
-![PwC](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PricewaterhouseCoopers_Logo.svg/1200px-PricewaterhouseCoopers_Logo.svg.png)
-
-{:width="100px" style="display: block;"}
+![PwC](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PricewaterhouseCoopers_Logo.svg/1200px-PricewaterhouseCoopers_Logo.svg.png){:width="100px" style="display: block;"}
 
 **PwC Case Workshop**
 
@@ -60,9 +58,7 @@ _CMU alumni at PwC will be visiting to discuss preparation for case interviews a
 
 ***
 
-![Deloitte](https://www.tangentia.com/wp-content/uploads/2018/10/Deloitte-Logo-1024x274.png)
-
-{:width="100px" style="display: block;"}
+![Deloitte](https://www.tangentia.com/wp-content/uploads/2018/10/Deloitte-Logo-1024x274.png){:width="100px" style="display: block;"}
 
 **Deloitte Consulting Unfiltered**
 
@@ -87,9 +83,7 @@ UC Conan**
 
 ***
 
-![McKinsey & Company](https://www.aaaa.org/wp-content/uploads/2019/04/McKinsey-logo.png)
-
-{:width="100px" style="display: block;"}
+![McKinsey & Company](https://www.aaaa.org/wp-content/uploads/2019/04/McKinsey-logo.png){:width="100px" style="display: block;"}
 
 **McKinsey & Company Information Session**
 
@@ -101,9 +95,7 @@ _We invite you to attend our information session on Friday, September 6th at 6:3
 
 ***
 
-![UCC Logo](https://www.cmuucc.com/img/logo_teal.png)
-
-{:width="100px" style="display: block;"}
+![UCC Logo](https://www.cmuucc.com/img/logo_teal.png){:width="100px" style="display: block;"}
 
 **UCC/CA Bootcamp \[Freshmen & Sophomores\]**
 
@@ -123,9 +115,7 @@ UCC Consulting Academy presents a Junior - Senior Prep Bootcamp to get you on yo
 
 ***
 
-![West Monroe](https://seekvectorlogo.net/wp-content/uploads/2019/06/west-monroe-partners-wmp-vector-logo.png)
-
-{:width="100px" style="display: block;"}
+![West Monroe](https://seekvectorlogo.net/wp-content/uploads/2019/06/west-monroe-partners-wmp-vector-logo.png){:width="100px" style="display: block;"}
 
 **West Monroe Interview Preparation Workshop**
 
@@ -137,9 +127,7 @@ _Have you ever wanted to learn how to navigate the interview process? If so, ple
 
 ***
 
-![Deloitte](https://www.tangentia.com/wp-content/uploads/2018/10/Deloitte-Logo-1024x274.png)
-
-{:width="100px" style="display: block;"}
+![Deloitte](https://www.tangentia.com/wp-content/uploads/2018/10/Deloitte-Logo-1024x274.png){:width="100px" style="display: block;"}
 
 **Deloitte Coffee Chats**
 
@@ -148,6 +136,8 @@ _Have you ever wanted to learn how to navigate the interview process? If so, ple
 UC Danforth**
 
 ***
+
+![Image result for accenture logo](https://bzzsxz6liz-flywheel.netdna-ssl.com/wp-content/uploads/2018/10/2000px-Accenture.svg_.png){:width="100px" style="display: block;"}
 
 **Accenture Technical v. Non-Technical Interview Workshop**
 
