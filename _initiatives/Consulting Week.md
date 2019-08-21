@@ -26,6 +26,18 @@ The Undergraduate Consulting Club at CMU facilitates consulting events on campus
 
 ***
 
+![Image result for ey logo](https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg){:width="100px" style="display: block;"}
+
+**EY Consulting Night**
+
+**Monday 09/03  
+6:00 - 8:00PM  
+TEP 2612**
+
+_Please join us for EY Consulting Night! Mergers and Acquisitions (M&A) are key terms in today's financial markets. Our Transaction Advisory Services team helps its clients to work through the M&A process while providing innovative and creative solutions. Come learn more about the day to day life of a consultant and how to best tackle the case study portion of the interview process! Light refreshments to be provided._
+
+***
+
 ![PwC Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/PricewaterhouseCoopers_Logo.svg){:width="100px" style="display: block;"}
 
 **PwC Consulting (Thursday 9/6. 6:00-7:30 PM)**
